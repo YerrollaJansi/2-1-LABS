@@ -1,5 +1,5 @@
 
-# Write a C++ program on Friend Class & Friend Function
+# AIM : Write a C++ program on Friend Class & Friend Function
 # ALGORITHM :
  step 1:include required header file(iostream and string).
  step 2:using preprocessor define pi value to 3.14.
