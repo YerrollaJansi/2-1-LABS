@@ -1,5 +1,5 @@
 
-# Write a C++ program to declare Struct. Initialize and display contents of member Variables.
+# AIM : Write a C++ program to declare Struct. Initialize and display contents of member Variables.
 # ALGORITHM : 
  Step 1 - Include the required header files (iostream.h and string).
  Step 2 - Create a structure (student) with the following member variables.
