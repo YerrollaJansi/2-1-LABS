@@ -1,5 +1,5 @@
 
-# write a c++ program using this pointer
+# AIM : write a c++ program using this pointer
 # ALGORITHM :
 step 1:Include required header file(iostream and string).
 step 2:create a class(student) with the class members as public members :
