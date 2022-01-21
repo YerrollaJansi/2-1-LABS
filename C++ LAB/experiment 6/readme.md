@@ -1,5 +1,5 @@
 
-# Write a C++ program to use scope resolution operator. Display the various values of the same variables declared at different scope levels.
+# AIM : Write a C++ program to use scope resolution operator. Display the various values of the same variables declared at different scope levels.
 # ALGORITHM:
  When both global and local variables have the same name then global variable is hidden inside the
  local scope. Therefore, we use the scope resolution operator to refer to the global variable.
