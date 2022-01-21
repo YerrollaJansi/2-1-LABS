@@ -1,5 +1,5 @@
 
-# Write a C++ program to declare a class. Declare pointer to class. Initialize and display the contents of the class member.
+# AIM : Write a C++ program to declare a class. Declare pointer to class. Initialize and display the contents of the class member.
 # ALGORITHM:
  Step 1 - Include the required header files (iostream and string).
  Step 2 - Create a class (employee) with the following class members as public members.
