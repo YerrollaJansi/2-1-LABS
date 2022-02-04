@@ -8,4 +8,4 @@
  Step 3 - Create a main() method.\
  Step 4 - Create an object (e) of the above class inside the main() method.\
  Step 5 - Call the member functions read(),display(),and calculate_net_salary() using class object.\
- Step 6 - return 0 to exit form the program execution.\
+ Step 6 - return 0 to exit form the program execution.
