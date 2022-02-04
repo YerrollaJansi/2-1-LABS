@@ -1,5 +1,5 @@
-
-# AIM:Given that an EMPLOYEE class contains following members: data members: Employee number, Employee name, Basic, DA, IT, Net Salary and print data members.
+#             Experiment 2
+# AIM: Given that an EMPLOYEE class contains following members: data members: Employee number, Employee name, Basic, DA, IT, Net Salary and print data members.
 
 # ALGORITHM:
  Step 1 - Include the required header files (iostream.h, string).
