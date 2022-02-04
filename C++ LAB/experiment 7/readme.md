@@ -1,4 +1,4 @@
-
+#                           Experiment 7
 # AIM : write a c++ program using this pointer
 # ALGORITHM :
 step 1:Include required header file(iostream and string).<br />
