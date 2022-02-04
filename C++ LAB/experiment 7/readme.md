@@ -1,7 +1,7 @@
 
 # AIM : write a c++ program using this pointer
 # ALGORITHM :
-step 1:Include required header file(iostream and string).
+step 1:Include required header file(iostream and string).<br />
 step 2:create a class(student) with the class members as public members :
        roll_no,name,marks,grade as data members and display() as its method.
 step 3:define a parameterized  constructor student(same data members names) and initialise the variables using this pointer.     
