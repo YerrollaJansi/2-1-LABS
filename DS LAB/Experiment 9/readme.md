@@ -4,4 +4,4 @@
 # b)Insertion
 # c)Deletion
 # d)Traversal
-# e)middle elemenet
+# e)middle element
