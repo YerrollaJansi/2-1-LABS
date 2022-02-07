@@ -1,4 +1,4 @@
-#             Experiment 5
+#              Experiment 5
 # AIM : Write a C++ program to declare a class. Declare pointer to class. Initialize and display the contents of the class member.
 # ALGORITHM:
  Step 1 - Include the required header files (iostream and string).  
