@@ -1,4 +1,4 @@
-#             Experiment 6
+#              Experiment 6
 # AIM : Write a C++ program to use scope resolution operator. Display the various values of the same variables declared at different scope levels.
 # ALGORITHM:
  When both global and local variables have the same name then global variable is hidden inside the
