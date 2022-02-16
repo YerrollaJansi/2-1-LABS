@@ -1,4 +1,4 @@
-#            Experiment 12a
+#             Experiment 12a
 # AIM : Write a C++ Program to illustrate early binding.
 # Algorithm:
 Step 1: Include the required header files (iostream).
