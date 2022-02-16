@@ -1,7 +1,7 @@
 #         Experiment 13a
 # AIM : Write a C++ Program for divide by zero using try & catch blocks
 # Algorithm:  
-step-1:Start the program.
+step-1:include the required heder files iostream and exception in the program.
 
 step-2:Declare the variables a,b.
 
