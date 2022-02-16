@@ -1,22 +1,20 @@
 #              Experiment 11
 # AIM : Write a C++ program to create multilevel inheritance.
 # Algorithm:  
-Step by Step Procedure of experiment
-
 Step 1 - Include the required header files (iostream.h).
 
-Step 2 - Create a base class (Grand_parent) with the following class members as public members. 'a1' as data member and 'display1()' as member function.
+Step 2 - Create a base class 'A1' with the following class members :'a' as data member  in private and 'show_a1()' as member function in public mode.
 
-Step 3 - Initialise the value of 'a1' by using default constructor and implement display1() function.
+Step 3 - Initialise the value of 'a' by using default constructor and implement show_a1 function.
 
-Step 4 - Create a class (parent) derived from Grand_parent with the following class members as public members. 'a2' as data member and 'display2()' as member function.
+Step 4 - Create a class A2 derived from A1 with the following class members :'b' as data member in private and 'show_a2()' as member function in public mode..
 
-Step 5 - Initialise the value of 'a2' by using default constructor and implement display2() function.
+Step 5 - Initialise the value of 'b' by using default constructor and implement show_a2() function.
 
-Step 6 - Create a class (child) derived from parent with the following class members as public members. 'a3' as data member and 'display3()' as member function.
+Step 6 - Create a class A3 derived from A2 with the following class members:'c' as data member in private and 'show_a3()' as member function in public mode.
 
-Step 7 - Declare the child class object 'obj' and call the functions display1(),display2(),display3().
+Step 7 - Declare the A3 class object 'obj' and call the functions show_a1(),show_a2(),show_a3() using dot(.) operator.  
 
-Step 8 - Stop the program.
+Step 8 - end the program.
 
 
