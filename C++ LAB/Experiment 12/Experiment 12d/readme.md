@@ -1,4 +1,4 @@
-#          Experiment 12d
+#           Experiment 12d
 # AIM: Write a c++ Program on Abstract classes 
 # Algorithm:  
 Step 1: Include the required header files (iostream).
