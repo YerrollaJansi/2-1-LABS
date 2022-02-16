@@ -1,4 +1,4 @@
-#                  experiment 12b
+#                  Experiment 12b
 # AIM : Write a C++ Program to illustrate late binding
 # Algorithm:  
 Step 1 - Include the required header files (iostream)
