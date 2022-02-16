@@ -1,4 +1,4 @@
-#                    Experiment 13b
+#                     Experiment 13b
 # AIM : Write a C++ Program for divide by zero using multiple catch 
 # Algorithm:  
 step-1:include the required header files iostream and exception
