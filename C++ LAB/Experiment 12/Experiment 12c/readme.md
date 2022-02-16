@@ -7,7 +7,7 @@ Step 2: Declare the base class A with data member x.
 
 Step 3: Declare and define the virtual function display().
 
-Step 4: Create the derived class B from the base class.
+Step 4: Create the derived class B from the base class A with data member y.
 
 Step 5: Declare and define the functions display().
 
